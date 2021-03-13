@@ -1,0 +1,6 @@
+cmsdk_ahb_default_slave.v
+cmsdk_ahb_to_sram.v
+cmsdk_clock_gate.v
+cmsdk_mcu_clkctrl.v    (comment "include"-Line)
+cmsdk_mcu_sysctrl.v
+cortexm0ds_logic.v
