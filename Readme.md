@@ -16,7 +16,7 @@ As an example for an AHB peripheral the following design is included in the proj
 
  <img src="image-20210313170334407.png" alt="image-20210313170334407" style="zoom:67%;" />
 
-In the current system contains three registers, where only some of the signals are connected to FPGA output pins. See `HDL\Cmod-A7\CORTEX_M0_MPU_TOP.vhd` for details.
+The current system contains three registers, where only some of the signals are connected to FPGA output pins. See `HDL\Cmod-A7\CORTEX_M0_MPU_TOP.vhd` for details.
 
 Besides the files in this projects some verilog files from DesignStart Eval Cortex-M0 are required to build the System. Download this eval package (see below) and add the files to the `HDL/Verilog`subdirectory.
 
